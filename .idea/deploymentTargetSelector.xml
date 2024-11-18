@@ -5,6 +5,18 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="APP-COORDENADAS-IMAGEN-main.ubicacionGeografica.app.unitTest~1">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="APP-COORDENADAS-IMAGEN-main.ubicacionGeografica.app.androidTest~1">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="APP-COORDENADAS-IMAGEN-main.ubicacionGeografica.app.main~1">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="APP-COORDENADAS-IMAGEN-main.ubicacionGeografica.app">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
